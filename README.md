@@ -2,7 +2,7 @@
 
 
 ### Async/await
-```
+```js
 const url1 = 'https://raw.githubusercontent.com/bbrochier/bgflashcards/main/data.json'
 const response = await fetch(url1)
 const data = await response.text()

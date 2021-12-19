@@ -1,0 +1,9 @@
+{
+  "name": "BGFlashcards",
+  "cards" : [
+    {
+      "title": "ma carte une",
+      "description": "ma description..."
+    }
+  ] 
+}
